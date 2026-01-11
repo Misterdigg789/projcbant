@@ -56,6 +56,9 @@ async function upsertPrivyUser(verifiedClaims: any) {
     const userId = verifiedClaims.userId || verifiedClaims.sub;
     let dbUser = await getUserFromDb(userId);
     
+    // Check for wallet account even if user exists to ensure username is updated if it was previously a default one
+    const walletAccount = verifiedClaims.linkedAccounts?.find((acc: any) => acc.type === 'wallet');
+    
     if (!dbUser) {
       const email = verifiedClaims.email || `${userId}@privy.user`;
 
@@ -64,10 +67,7 @@ async function upsertPrivyUser(verifiedClaims: any) {
         return existingByEmail;
       }
 
-      // Check if this is a wallet-based login
-      const walletAccount = verifiedClaims.linkedAccounts?.find((acc: any) => acc.type === 'wallet');
       let username: string;
-
       if (walletAccount?.address) {
         username = walletAccount.address;
       } else {
@@ -85,6 +85,12 @@ async function upsertPrivyUser(verifiedClaims: any) {
         username: username,
         profileImageUrl: verifiedClaims.picture,
       });
+    } else if (walletAccount?.address && dbUser.username.startsWith('user_')) {
+      // If user exists but has a default username and is now connecting a wallet, update it
+      dbUser = await storage.updateUserProfile(userId, {
+        username: walletAccount.address
+      });
+      console.log(`🔄 Updated default username to wallet address for user ${userId}`);
     }
     
     // Extract Telegram data from Privy linkedAccounts if user signed in with Telegram
