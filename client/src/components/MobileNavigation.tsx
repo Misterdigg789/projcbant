@@ -50,15 +50,15 @@ export function MobileNavigation({
       isActive: location.startsWith("/friends"),
       tourId: "friends",
     },
-    {
-      path: "create",
-      iconPath: "/assets/create.png",
-      label: "Create",
-      isActive: false,
-      tourId: "create",
-      isCreateButton: true,
-    },
     ...(user ? [
+      {
+        path: "create",
+        iconPath: "/assets/create.png",
+        label: "Create",
+        isActive: false,
+        tourId: "create",
+        isCreateButton: true,
+      },
       {
         path: "/history",
         iconPath: "/assets/listsvg.svg",
@@ -74,7 +74,15 @@ export function MobileNavigation({
         tourId: "profile",
         isProfileIcon: true,
       },
-    ] : []),
+    ] : [
+      {
+        path: "/leaderboard",
+        iconPath: "/assets/trophy.svg",
+        label: "Leaderboard",
+        isActive: location.startsWith("/leaderboard"),
+        tourId: "leaderboard",
+      }
+    ]),
   ];
 
   const handleNavigation = (path: string, item?: any) => {
