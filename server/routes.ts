@@ -5744,7 +5744,7 @@ export async function registerRoutes(app: Express, upload?: any): Promise<Server
   setupOGImageRoutes(app, storage);
 
   // Add leaderboard endpoint
-  app.get("/api/leaderboard", PrivyAuthMiddleware, async (req: AuthenticatedRequest, res) => {
+  app.get("/api/leaderboard", async (req, res) => {
     try {
       const leaderboard = await storage.getLeaderboard();
       console.log(`Leaderboard query returned ${leaderboard.length} users`);

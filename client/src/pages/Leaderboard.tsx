@@ -37,22 +37,11 @@ export default function Leaderboard() {
   useEffect(() => {
     if (error) {
       console.error("Leaderboard error:", error);
-      if (isUnauthorizedError(error)) {
-        toast({
-          title: "Unauthorized",
-          description: "You are logged out. Logging in again...",
-          variant: "destructive",
-        });
-        setTimeout(() => {
-          window.location.href = "/api/login";
-        }, 500);
-      } else {
-        toast({
-          title: "Error loading leaderboard",
-          description: "Unable to load leaderboard data. Please try again.",
-          variant: "destructive",
-        });
-      }
+      toast({
+        title: "Error loading leaderboard",
+        description: "Unable to load leaderboard data. Please try again.",
+        variant: "destructive",
+      });
     }
   }, [error, toast]);
 

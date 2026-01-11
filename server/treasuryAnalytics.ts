@@ -1,10 +1,10 @@
 import { db } from './db';
 import {
-  treasury_matches,
-  treasury_challenges,
+  treasuryMatches,
+  treasuryChallenges,
   users,
   challenges,
-  pair_queue,
+  pairQueue,
 } from '../shared/schema';
 import { eq, and, gte, lte, sql } from 'drizzle-orm';
 
@@ -85,24 +85,24 @@ export async function getDailyPnLTrends(
 
   const results = await db
     .selectDistinct({
-      date: sql<string>`DATE(${treasury_matches.settled_at})`,
+      date: sql<string>`DATE(${treasuryMatches.settled_at})`,
       matches_count: sql<number>`COUNT(*)`,
-      wins: sql<number>`SUM(CASE WHEN ${treasury_matches.result} = 'treasury_won' THEN 1 ELSE 0 END)`,
-      losses: sql<number>`SUM(CASE WHEN ${treasury_matches.result} = 'treasury_lost' THEN 1 ELSE 0 END)`,
-      draws: sql<number>`SUM(CASE WHEN ${treasury_matches.result} = 'draw' THEN 1 ELSE 0 END)`,
-      total_wagered: sql<number>`SUM(${treasury_matches.amount_wagered})`,
-      total_payout: sql<number>`SUM(${treasury_matches.payout})`,
+      wins: sql<number>`SUM(CASE WHEN ${treasuryMatches.result} = 'treasury_won' THEN 1 ELSE 0 END)`,
+      losses: sql<number>`SUM(CASE WHEN ${treasuryMatches.result} = 'treasury_lost' THEN 1 ELSE 0 END)`,
+      draws: sql<number>`SUM(CASE WHEN ${treasuryMatches.result} = 'draw' THEN 1 ELSE 0 END)`,
+      total_wagered: sql<number>`SUM(${treasuryMatches.amount_wagered})`,
+      total_payout: sql<number>`SUM(${treasuryMatches.payout})`,
     })
-    .from(treasury_matches)
+    .from(treasuryMatches)
     .where(
       and(
-        gte(treasury_matches.settled_at, start),
-        lte(treasury_matches.settled_at, end),
-        eq(treasury_matches.status, 'settled')
+        gte(treasuryMatches.settled_at, start),
+        lte(treasuryMatches.settled_at, end),
+        eq(treasuryMatches.status, 'settled')
       )
     )
-    .groupBy(sql`DATE(${treasury_matches.settled_at})`)
-    .orderBy(sql`DATE(${treasury_matches.settled_at}) DESC`);
+    .groupBy(sql`DATE(${treasuryMatches.settled_at})`)
+    .orderBy(sql`DATE(${treasuryMatches.settled_at}) DESC`);
 
   return results.map((r) => ({
     date: r.date || new Date().toISOString().split('T')[0],
@@ -130,23 +130,23 @@ export async function getChallengeAnalytics(
       challenge_title: challenges.title,
       admin_id: challenges.admin_id,
       admin_username: users.username,
-      total_matches: sql<number>`COUNT(${treasury_matches.id})`,
-      wins: sql<number>`SUM(CASE WHEN ${treasury_matches.result} = 'treasury_won' THEN 1 ELSE 0 END)`,
-      losses: sql<number>`SUM(CASE WHEN ${treasury_matches.result} = 'treasury_lost' THEN 1 ELSE 0 END)`,
-      draws: sql<number>`SUM(CASE WHEN ${treasury_matches.result} = 'draw' THEN 1 ELSE 0 END)`,
-      total_wagered: sql<number>`SUM(${treasury_matches.amount_wagered})`,
-      total_payout: sql<number>`SUM(${treasury_matches.payout})`,
-      avg_match_amount: sql<number>`AVG(${treasury_matches.amount_wagered})`,
+      total_matches: sql<number>`COUNT(${treasuryMatches.id})`,
+      wins: sql<number>`SUM(CASE WHEN ${treasuryMatches.result} = 'treasury_won' THEN 1 ELSE 0 END)`,
+      losses: sql<number>`SUM(CASE WHEN ${treasuryMatches.result} = 'treasury_lost' THEN 1 ELSE 0 END)`,
+      draws: sql<number>`SUM(CASE WHEN ${treasuryMatches.result} = 'draw' THEN 1 ELSE 0 END)`,
+      total_wagered: sql<number>`SUM(${treasuryMatches.amount_wagered})`,
+      total_payout: sql<number>`SUM(${treasuryMatches.payout})`,
+      avg_match_amount: sql<number>`AVG(${treasuryMatches.amount_wagered})`,
       created_at: challenges.created_at,
-      settled_at: sql<string>`MAX(${treasury_matches.settled_at})`,
+      settled_at: sql<string>`MAX(${treasuryMatches.settled_at})`,
     })
-    .from(treasury_matches)
+    .from(treasuryMatches)
     .innerJoin(
       challenges,
-      eq(treasury_matches.challenge_id, challenges.id)
+      eq(treasuryMatches.challenge_id, challenges.id)
     )
     .innerJoin(users, eq(challenges.admin_id, users.id))
-    .where(eq(treasury_matches.status, 'settled'));
+    .where(eq(treasuryMatches.status, 'settled'));
 
   if (challengeId) {
     query.where(eq(challenges.id, challengeId));
@@ -247,16 +247,16 @@ export async function getPerformanceByUser(): Promise<PerformanceByUser[]> {
       user_id: users.id,
       username: users.username,
       is_shadow: users.is_shadow_persona,
-      matches_count: sql<number>`COUNT(${pair_queue.id})`,
-      wins: sql<number>`SUM(CASE WHEN ${pair_queue.result} = 'user_won' THEN 1 ELSE 0 END)`,
-      losses: sql<number>`SUM(CASE WHEN ${pair_queue.result} = 'user_lost' THEN 1 ELSE 0 END)`,
-      draws: sql<number>`SUM(CASE WHEN ${pair_queue.result} = 'draw' THEN 1 ELSE 0 END)`,
-      wagered: sql<number>`SUM(${pair_queue.amount})`,
-      payouts: sql<number>`SUM(${pair_queue.payout})`,
+      matches_count: sql<number>`COUNT(${pairQueue.id})`,
+      wins: sql<number>`SUM(CASE WHEN ${pairQueue.result} = 'user_won' THEN 1 ELSE 0 END)`,
+      losses: sql<number>`SUM(CASE WHEN ${pairQueue.result} = 'user_lost' THEN 1 ELSE 0 END)`,
+      draws: sql<number>`SUM(CASE WHEN ${pairQueue.result} = 'draw' THEN 1 ELSE 0 END)`,
+      wagered: sql<number>`SUM(${pairQueue.amount})`,
+      payouts: sql<number>`SUM(${pairQueue.payout})`,
     })
-    .from(pair_queue)
-    .innerJoin(users, eq(pair_queue.user_id, users.id))
-    .where(eq(pair_queue.is_treasury_match, true))
+    .from(pairQueue)
+    .innerJoin(users, eq(pairQueue.user_id, users.id))
+    .where(eq(pairQueue.is_treasury_match, true))
     .groupBy(users.id, users.username, users.is_shadow_persona);
 
   return results.map((r) => ({
@@ -283,22 +283,22 @@ export async function getRiskAnalysis(days: number = 30): Promise<RiskAnalysis[]
 
   const results = await db
     .selectDistinct({
-      date: sql<string>`DATE(${treasury_challenges.created_at})`,
-      max_risk: sql<number>`SUM(${treasury_challenges.max_risk})`,
-      actual_loss: sql<number>`SUM(CASE WHEN ${treasury_matches.result} = 'treasury_lost' THEN ${treasury_matches.amount_wagered} ELSE 0 END)`,
-      challenges: sql<number>`COUNT(DISTINCT ${treasury_challenges.id})`,
-      total_exposed: sql<number>`SUM(${treasury_challenges.allocated})`,
+      date: sql<string>`DATE(${treasuryChallenges.created_at})`,
+      max_risk: sql<number>`SUM(${treasuryChallenges.max_risk})`,
+      actual_loss: sql<number>`SUM(CASE WHEN ${treasuryMatches.result} = 'treasury_lost' THEN ${treasuryMatches.amount_wagered} ELSE 0 END)`,
+      challenges: sql<number>`COUNT(DISTINCT ${treasuryChallenges.id})`,
+      total_exposed: sql<number>`SUM(${treasuryChallenges.allocated})`,
     })
-    .from(treasury_challenges)
+    .from(treasuryChallenges)
     .leftJoin(
-      treasury_matches,
+      treasuryMatches,
       and(
-        eq(treasury_challenges.id, treasury_matches.challenge_id),
-        eq(treasury_matches.status, 'settled')
+        eq(treasuryChallenges.id, treasuryMatches.challenge_id),
+        eq(treasuryMatches.status, 'settled')
       )
     )
-    .where(gte(treasury_challenges.created_at, startDate))
-    .groupBy(sql`DATE(${treasury_challenges.created_at})`);
+    .where(gte(treasuryChallenges.created_at, startDate))
+    .groupBy(sql`DATE(${treasuryChallenges.created_at})`);
 
   return results.map((r) => ({
     date: r.date || new Date().toISOString().split('T')[0],

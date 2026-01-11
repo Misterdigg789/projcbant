@@ -56,8 +56,33 @@ async function upsertPrivyUser(verifiedClaims: any) {
     const userId = verifiedClaims.userId || verifiedClaims.sub;
     let dbUser = await getUserFromDb(userId);
     
+    console.log(`🔍 Processing user ${userId}, existing user: ${!!dbUser}`);
+    if (dbUser) {
+      console.log(`🔍 Existing user details: username=${dbUser.username}, email=${dbUser.email}`);
+    }
+    
     // Check for wallet account even if user exists to ensure username is updated if it was previously a default one
-    const walletAccount = verifiedClaims.linkedAccounts?.find((acc: any) => acc.type === 'wallet');
+    let walletAccount = verifiedClaims.linkedAccounts?.find((acc: any) => 
+      acc.type === 'wallet' || 
+      (acc.type === 'custom_auth' && acc.custom_auth?.provider === 'wallet') ||
+      (acc.address && /^0x[a-fA-F0-9]{40}$/.test(acc.address))
+    );
+    
+    // Also check for any account with an address field
+    const anyAccountWithAddress = verifiedClaims.linkedAccounts?.find((acc: any) => 
+      acc.address && typeof acc.address === 'string' && acc.address.startsWith('0x')
+    );
+    
+    if (walletAccount?.address) {
+      console.log(`🔑 Wallet account FOUND: ${walletAccount.address} (type: ${walletAccount.type})`);
+    } else if (anyAccountWithAddress?.address) {
+      console.log(`🔑 Alternative wallet account FOUND: ${anyAccountWithAddress.address} (type: ${anyAccountWithAddress.type})`);
+      // Use this as the wallet account
+      walletAccount = anyAccountWithAddress;
+    } else {
+      console.log(`ℹ️ No wallet account found in linkedAccounts`);
+      console.log(`ℹ️ Full linkedAccounts:`, JSON.stringify(verifiedClaims.linkedAccounts, null, 2));
+    }
     
     if (!dbUser) {
       const email = verifiedClaims.email || `${userId}@privy.user`;
@@ -68,10 +93,15 @@ async function upsertPrivyUser(verifiedClaims: any) {
       }
 
       let username: string;
-      if (walletAccount?.address) {
-        username = walletAccount.address;
+      if (walletAccount?.address && /^0x[a-fA-F0-9]{40}$/.test(walletAccount.address)) {
+        // Truncate wallet address for display as username - only for valid Ethereum addresses
+        username = `${walletAccount.address.slice(0, 6)}...${walletAccount.address.slice(-4)}`;
+        console.log(`👤 Setting username to real truncated wallet address: ${username} (from ${walletAccount.address})`);
       } else {
         username = verifiedClaims.email?.split('@')[0] || `user_${userId.slice(-8)}`;
+        if (walletAccount?.address && !/^0x[a-fA-F0-9]{40}$/.test(walletAccount.address)) {
+          console.warn(`⚠️ Not using invalid wallet address format for username: ${walletAccount.address}`);
+        }
       }
 
       const fallbackFirstName = getInitialsFromEmail(verifiedClaims.email) || 'User';
@@ -85,12 +115,28 @@ async function upsertPrivyUser(verifiedClaims: any) {
         username: username,
         profileImageUrl: verifiedClaims.picture,
       });
-    } else if (walletAccount?.address && dbUser.username.startsWith('user_')) {
+    } else if (walletAccount?.address && dbUser.username.startsWith('user_') && /^0x[a-fA-F0-9]{40}$/.test(walletAccount.address)) {
       // If user exists but has a default username and is now connecting a wallet, update it
-      dbUser = await storage.updateUserProfile(userId, {
-        username: walletAccount.address
-      });
-      console.log(`🔄 Updated default username to wallet address for user ${userId}`);
+      const truncatedAddress = `${walletAccount.address.slice(0, 6)}...${walletAccount.address.slice(-4)}`;
+      console.log(`🔄 UPDATING USERNAME: Conditions met - walletAccount exists: ${!!walletAccount}, address: ${walletAccount?.address}, username starts with user_: ${dbUser.username.startsWith('user_')}, valid format: ${/^0x[a-fA-F0-9]{40}$/.test(walletAccount.address)}`);
+      console.log(`🔄 Updating username from ${dbUser.username} to real truncated wallet address: ${truncatedAddress} (from ${walletAccount.address})`);
+      
+      try {
+        dbUser = await storage.updateUserProfile(userId, {
+          username: truncatedAddress
+        });
+        console.log(`🔄 Successfully updated username to truncated wallet address for user ${userId}`);
+        console.log(`🔄 New user object:`, { id: dbUser.id, username: dbUser.username, email: dbUser.email });
+      } catch (updateError) {
+        console.error(`❌ Failed to update username for user ${userId}:`, updateError);
+      }
+    } else {
+      console.log(`❌ NOT UPDATING USERNAME: Conditions not met`);
+      console.log(`❌ walletAccount exists: ${!!walletAccount}`);
+      console.log(`❌ walletAccount address: ${walletAccount?.address}`);
+      console.log(`❌ dbUser username: ${dbUser?.username}`);
+      console.log(`❌ username starts with user_: ${dbUser?.username?.startsWith('user_')}`);
+      console.log(`❌ valid format: ${walletAccount?.address ? /^0x[a-fA-F0-9]{40}$/.test(walletAccount.address) : 'N/A'}`);
     }
     
     // Extract Telegram data from Privy linkedAccounts if user signed in with Telegram
