@@ -64,7 +64,16 @@ async function upsertPrivyUser(verifiedClaims: any) {
         return existingByEmail;
       }
 
-      const username = verifiedClaims.email?.split('@')[0] || `user_${userId.slice(-8)}`;
+      // Check if this is a wallet-based login
+      const walletAccount = verifiedClaims.linkedAccounts?.find((acc: any) => acc.type === 'wallet');
+      let username: string;
+
+      if (walletAccount?.address) {
+        const addr = walletAccount.address;
+        username = `${addr.slice(0, 6)}...${addr.slice(-4)}`;
+      } else {
+        username = verifiedClaims.email?.split('@')[0] || `user_${userId.slice(-8)}`;
+      }
 
       const fallbackFirstName = getInitialsFromEmail(verifiedClaims.email) || 'User';
 
