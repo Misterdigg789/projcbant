@@ -1,0 +1,76 @@
+Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+queryClient.ts:109 Query Function Error: Error: 401: {"message":"Authorization header missing"}
+queryFn @ queryClient.ts:109Understand this error
+/api/challenges?19=:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+queryClient.ts:109 Query Function Error: Error: 401: {"message":"Authorization header missing"}
+queryFn @ queryClient.ts:109Understand this error
+2HeaderWithAuth.tsx:125 Uncaught ReferenceError: showAuthModal is not defined
+    at HeaderWithAuth (HeaderWithAuth.tsx:125:19)
+    at renderWithHooks (chunk-SKRUXVEK.js?v=e4455226:11548:26)
+    at mountIndeterminateComponent (chunk-SKRUXVEK.js?v=e4455226:14926:21)
+    at beginWork (chunk-SKRUXVEK.js?v=e4455226:15914:22)
+    at HTMLUnknownElement.callCallback2 (chunk-SKRUXVEK.js?v=e4455226:3674:22)
+    at Object.invokeGuardedCallbackDev (chunk-SKRUXVEK.js?v=e4455226:3699:24)
+    at invokeGuardedCallback (chunk-SKRUXVEK.js?v=e4455226:3733:39)
+    at beginWork$1 (chunk-SKRUXVEK.js?v=e4455226:19765:15)
+    at performUnitOfWork (chunk-SKRUXVEK.js?v=e4455226:19198:20)
+    at workLoopSync (chunk-SKRUXVEK.js?v=e4455226:19137:13)Understand this error
+chunk-SKRUXVEK.js?v=e4455226:14032 The above error occurred in the <HeaderWithAuth> component:
+
+    at HeaderWithAuth (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/src/components/HeaderWithAuth.tsx?t=1766501391127:47:60)
+    at div
+    at ChallengeChatPage (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/src/pages/ChallengeChatPage.tsx?t=1766501391127:45:18)
+    at Route (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=e4455226:280:16)
+    at Switch (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=e4455226:336:17)
+    at div
+    at AppRouter (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/src/App.tsx?t=1766501530610&v=-ZCPKqUFcDeamfXm1KtZT:90:48)
+    at Router (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=e4455226:235:17)
+    at ErrorBoundary (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/react-error-boundary.js?v=e4455226:18:5)
+    at Provider (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-GBY3YEWR.js?v=e4455226:38:15)
+    at TooltipProvider (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=e4455226:65:5)
+    at div
+    at EventsSearchProvider (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/src/context/EventsSearchContext.tsx:24:40)
+    at ThemeProvider (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/src/contexts/ThemeProvider.tsx:20:33)
+    at Hr3 (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=e4455226:67942:13)
+    at oc2 (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=e4455226:68681:24)
+    at Ma2 (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=e4455226:67288:24)
+    at Xc3 (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=e4455226:77783:17)
+    at dp (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=e4455226:69198:23)
+    at Dr3 (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=e4455226:67796:24)
+    at Jc3 (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@privy-io_react-auth.js?v=e4455226:77771:22)
+    at QueryClientProvider (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=e4455226:2805:3)
+    at App (https://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/src/App.tsx?t=1766501530610&v=-ZCPKqUFcDeamfXm1KtZT:616:39)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorBoundary.
+logCapturedError @ chunk-SKRUXVEK.js?v=e4455226:14032Understand this error
+App.tsx:360 App Error: ReferenceError: showAuthModal is not defined
+    at HeaderWithAuth (HeaderWithAuth.tsx:125:19)
+    at renderWithHooks (chunk-SKRUXVEK.js?v=e4455226:11548:26)
+    at mountIndeterminateComponent (chunk-SKRUXVEK.js?v=e4455226:14926:21)
+    at beginWork (chunk-SKRUXVEK.js?v=e4455226:15914:22)
+    at beginWork$1 (chunk-SKRUXVEK.js?v=e4455226:19753:22)
+    at performUnitOfWork (chunk-SKRUXVEK.js?v=e4455226:19198:20)
+    at workLoopSync (chunk-SKRUXVEK.js?v=e4455226:19137:13)
+    at renderRootSync (chunk-SKRUXVEK.js?v=e4455226:19116:15)
+    at recoverFromConcurrentError (chunk-SKRUXVEK.js?v=e4455226:18736:28)
+    at performSyncWorkOnRoot (chunk-SKRUXVEK.js?v=e4455226:18879:28)
+onError @ App.tsx:360Understand this error
+useWebSocket.ts:79 WebSocket connection to 'wss://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/ws' failed: WebSocket is closed before the connection is established.
+(anonymous) @ useWebSocket.ts:79Understand this warning
+useWebSocket.ts:63 WebSocket error: Event
+ws.current.onerror @ useWebSocket.ts:63Understand this error
+useWebSocket.ts:49 WebSocket disconnected
+/api/challenges?19=:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+queryClient.ts:109 Query Function Error: Error: 401: {"message":"Authorization header missing"}
+queryFn @ queryClient.ts:109Understand this error
+/api/challenges?19=:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+queryClient.ts:109 Query Function Error: Error: 401: {"message":"Authorization header missing"}
+queryFn @ queryClient.ts:109Understand this error
+useWebSocket.ts:26 Connecting to WebSocket: wss://f6e48c87-e759-4cd7-8cbb-a239fcf32fea-00-36vyb6yr942m7.janeway.replit.dev/ws
+@privy-io_react-auth.js?v=e4455226:77083 Privy iframe failed to load:  Error: Exceeded max attempts before resolving function
+    at @privy-io_react-auth.js?v=e4455226:67217:16
+(anonymous) @ @privy-io_react-auth.js?v=e4455226:77083
+setTimeout
+(anonymous) @ @privy-io_react-auth.js?v=e4455226:67203
+ba2 @ @privy-io_react-auth.js?v=e4455226:67203
+(anonymous) @ @privy-io_react-auth.js?v=e4455226:67215Understand this warning

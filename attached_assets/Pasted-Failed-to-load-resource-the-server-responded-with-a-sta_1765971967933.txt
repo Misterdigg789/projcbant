@@ -1,0 +1,1651 @@
+Failed to load resource: the server responded with a status of 500 ()Understand this error
+api/notifications:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+api/daily-signin/status:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+api/recommendations/events:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+api/navigation/badges:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+api/wallet/balance:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Failed to fetch events"}
+queryFn @ queryClient.ts:129Understand this error
+queryClient.ts:78 API Request Error: Error: 500: {"message":"Internal server error during authentication"}
+apiRequest @ queryClient.ts:78Understand this error
+4queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+embedded-wallets-535130948d0818e1.js?dpl=dpl_4EdtJBFNUxKLs31EKKirvd98KbkG:1 Warning!
+embedded-wallets-535130948d0818e1.js?dpl=dpl_4EdtJBFNUxKLs31EKKirvd98KbkG:1 You are reading this message because you opened the browser console, a developer tool. Do not enter or paste code you do not understand. Never share your tokens or any other info with anyone. If someone told you to do this, it is very likely a scam.
+api/notifications:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:78 API Request Error: Error: 500: {"message":"Internal server error during authentication"}
+apiRequest @ queryClient.ts:78Understand this error
+api/navigation/badges:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+api/wallet/balance:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+api/wallet/balance:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+api/wallet/balance:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+api/wallet/balance:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+Leaderboard.tsx:57 Leaderboard data: Array(0)
+Leaderboard.tsx:58 Is array: true
+Leaderboard.tsx:59 Length: 0
+useNotifications.ts:48 Pusher notifications initialized for user: did:privy:cm5wyksqh00u1xt3yo3mj0231
+Leaderboard.tsx:57 Leaderboard data: Array(0)
+Leaderboard.tsx:58 Is array: true
+Leaderboard.tsx:59 Length: 0
+api/navigation/badges:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+api/wallet/balance:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+api/leaderboard:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+api/notifications:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:78 API Request Error: Error: 500: {"message":"Internal server error during authentication"}
+apiRequest @ queryClient.ts:78Understand this error
+api/navigation/badges:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+api/leaderboard:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+Leaderboard.tsx:57 Leaderboard data: Array(0)
+Leaderboard.tsx:58 Is array: true
+Leaderboard.tsx:59 Length: 0
+Leaderboard.tsx:36 Leaderboard error: Error: Error: 500: {"message":"Internal server error during authentication"}
+    at queryFn (queryClient.ts:130:17)
+(anonymous) @ Leaderboard.tsx:36Understand this error
+api/notifications:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+Leaderboard.tsx:57 Leaderboard data: Array(0)
+Leaderboard.tsx:58 Is array: true
+Leaderboard.tsx:59 Length: 0
+queryClient.ts:78 API Request Error: Error: 500: {"message":"Internal server error during authentication"}
+apiRequest @ queryClient.ts:78Understand this error
+Leaderboard.tsx:57 Leaderboard data: Array(0)
+Leaderboard.tsx:58 Is array: true
+Leaderboard.tsx:59 Length: 0
+api/wallet/balance:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/wallet/balance 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/users 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/friends 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+2queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+useNotifications.ts:48 Pusher notifications initialized for user: did:privy:cm5wyksqh00u1xt3yo3mj0231
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/wallet/balance 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:66  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/notifications 500 (Internal Server Error)
+apiRequest @ queryClient.ts:66
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/navigation/badges 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:78 API Request Error: Error: 500: {"message":"Internal server error during authentication"}
+apiRequest @ queryClient.ts:78
+await in apiRequest
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/friends 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/challenges 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/users 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+3queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:66  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/notifications 500 (Internal Server Error)
+apiRequest @ queryClient.ts:66
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:78 API Request Error: Error: 500: {"message":"Internal server error during authentication"}
+apiRequest @ queryClient.ts:78
+await in apiRequest
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/navigation/badges 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/wallet/balance 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=5b82d222:2243
+updateTimers_fn @ @tanstack_react-query.js?v=5b82d222:2250
+onQueryUpdate @ @tanstack_react-query.js?v=5b82d222:2206
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:998
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:997
+batch @ @tanstack_react-query.js?v=5b82d222:583
+dispatch_fn @ @tanstack_react-query.js?v=5b82d222:996
+onError @ @tanstack_react-query.js?v=5b82d222:861
+reject @ @tanstack_react-query.js?v=5b82d222:465
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:508
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=5b82d222:2243
+updateTimers_fn @ @tanstack_react-query.js?v=5b82d222:2250
+onQueryUpdate @ @tanstack_react-query.js?v=5b82d222:2206
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:998
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:997
+batch @ @tanstack_react-query.js?v=5b82d222:583
+dispatch_fn @ @tanstack_react-query.js?v=5b82d222:996
+onError @ @tanstack_react-query.js?v=5b82d222:861
+reject @ @tanstack_react-query.js?v=5b82d222:465
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:508
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+useNotifications.ts:48 Pusher notifications initialized for user: did:privy:cm5wyksqh00u1xt3yo3mj0231
+queryClient.ts:66  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/notifications 500 (Internal Server Error)
+apiRequest @ queryClient.ts:66
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/navigation/badges 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/wallet/balance 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:78 API Request Error: Error: 500: {"message":"Internal server error during authentication"}
+apiRequest @ queryClient.ts:78
+await in apiRequest
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+2queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/recommendations/events 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/events 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Failed to fetch events"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:66  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/notifications 500 (Internal Server Error)
+apiRequest @ queryClient.ts:66
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:78 API Request Error: Error: 500: {"message":"Internal server error during authentication"}
+apiRequest @ queryClient.ts:78
+await in apiRequest
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/navigation/badges 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/wallet/balance 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=5b82d222:2243
+updateTimers_fn @ @tanstack_react-query.js?v=5b82d222:2250
+onQueryUpdate @ @tanstack_react-query.js?v=5b82d222:2206
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:998
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:997
+batch @ @tanstack_react-query.js?v=5b82d222:583
+dispatch_fn @ @tanstack_react-query.js?v=5b82d222:996
+onError @ @tanstack_react-query.js?v=5b82d222:861
+reject @ @tanstack_react-query.js?v=5b82d222:465
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:508
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=5b82d222:2243
+updateTimers_fn @ @tanstack_react-query.js?v=5b82d222:2250
+onQueryUpdate @ @tanstack_react-query.js?v=5b82d222:2206
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:998
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:997
+batch @ @tanstack_react-query.js?v=5b82d222:583
+dispatch_fn @ @tanstack_react-query.js?v=5b82d222:996
+onError @ @tanstack_react-query.js?v=5b82d222:861
+reject @ @tanstack_react-query.js?v=5b82d222:465
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:508
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+Leaderboard.tsx:57 Leaderboard data: []
+Leaderboard.tsx:58 Is array: true
+Leaderboard.tsx:59 Length: 0
+useNotifications.ts:48 Pusher notifications initialized for user: did:privy:cm5wyksqh00u1xt3yo3mj0231
+Leaderboard.tsx:57 Leaderboard data: []
+Leaderboard.tsx:58 Is array: true
+Leaderboard.tsx:59 Length: 0
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/navigation/badges 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:66  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/notifications 500 (Internal Server Error)
+apiRequest @ queryClient.ts:66
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:78 API Request Error: Error: 500: {"message":"Internal server error during authentication"}
+apiRequest @ queryClient.ts:78
+await in apiRequest
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/wallet/balance 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/leaderboard 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/navigation/badges 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:66  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/notifications 500 (Internal Server Error)
+apiRequest @ queryClient.ts:66
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:78 API Request Error: Error: 500: {"message":"Internal server error during authentication"}
+apiRequest @ queryClient.ts:78
+await in apiRequest
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+Leaderboard.tsx:57 Leaderboard data: []
+Leaderboard.tsx:58 Is array: true
+Leaderboard.tsx:59 Length: 0
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/leaderboard 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+Leaderboard.tsx:57 Leaderboard data: []
+Leaderboard.tsx:58 Is array: true
+Leaderboard.tsx:59 Length: 0
+Leaderboard.tsx:36 Leaderboard error: Error: Error: 500: {"message":"Internal server error during authentication"}
+    at queryFn (queryClient.ts:130:17)
+(anonymous) @ Leaderboard.tsx:36
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627
+setTimeout
+scheduleFn @ @tanstack_react-query.js?v=5b82d222:555
+flush @ @tanstack_react-query.js?v=5b82d222:569
+batch @ @tanstack_react-query.js?v=5b82d222:587
+dispatch_fn @ @tanstack_react-query.js?v=5b82d222:996
+onError @ @tanstack_react-query.js?v=5b82d222:861
+reject @ @tanstack_react-query.js?v=5b82d222:465
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:508
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:515
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+Leaderboard.tsx:57 Leaderboard data: []
+Leaderboard.tsx:58 Is array: true
+Leaderboard.tsx:59 Length: 0
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/wallet/balance 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=5b82d222:2243
+updateTimers_fn @ @tanstack_react-query.js?v=5b82d222:2250
+onQueryUpdate @ @tanstack_react-query.js?v=5b82d222:2206
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:998
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:997
+batch @ @tanstack_react-query.js?v=5b82d222:583
+dispatch_fn @ @tanstack_react-query.js?v=5b82d222:996
+onError @ @tanstack_react-query.js?v=5b82d222:861
+reject @ @tanstack_react-query.js?v=5b82d222:465
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:508
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=5b82d222:2243
+updateTimers_fn @ @tanstack_react-query.js?v=5b82d222:2250
+onQueryUpdate @ @tanstack_react-query.js?v=5b82d222:2206
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:998
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:997
+batch @ @tanstack_react-query.js?v=5b82d222:583
+dispatch_fn @ @tanstack_react-query.js?v=5b82d222:996
+onError @ @tanstack_react-query.js?v=5b82d222:861
+reject @ @tanstack_react-query.js?v=5b82d222:465
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:508
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+Leaderboard.tsx:57 Leaderboard data: []
+Leaderboard.tsx:58 Is array: true
+Leaderboard.tsx:59 Length: 0
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/wallet/balance 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=5b82d222:2243
+updateTimers_fn @ @tanstack_react-query.js?v=5b82d222:2250
+onQueryUpdate @ @tanstack_react-query.js?v=5b82d222:2206
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:998
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:997
+batch @ @tanstack_react-query.js?v=5b82d222:583
+dispatch_fn @ @tanstack_react-query.js?v=5b82d222:996
+onError @ @tanstack_react-query.js?v=5b82d222:861
+reject @ @tanstack_react-query.js?v=5b82d222:465
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:508
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=5b82d222:2243
+updateTimers_fn @ @tanstack_react-query.js?v=5b82d222:2250
+onQueryUpdate @ @tanstack_react-query.js?v=5b82d222:2206
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:998
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:997
+batch @ @tanstack_react-query.js?v=5b82d222:583
+dispatch_fn @ @tanstack_react-query.js?v=5b82d222:996
+onError @ @tanstack_react-query.js?v=5b82d222:861
+reject @ @tanstack_react-query.js?v=5b82d222:465
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:508
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=5b82d222:2243
+updateTimers_fn @ @tanstack_react-query.js?v=5b82d222:2250
+onQueryUpdate @ @tanstack_react-query.js?v=5b82d222:2206
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:998
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:997
+batch @ @tanstack_react-query.js?v=5b82d222:583
+dispatch_fn @ @tanstack_react-query.js?v=5b82d222:996
+onError @ @tanstack_react-query.js?v=5b82d222:861
+reject @ @tanstack_react-query.js?v=5b82d222:465
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:508
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=5b82d222:2243
+updateTimers_fn @ @tanstack_react-query.js?v=5b82d222:2250
+onQueryUpdate @ @tanstack_react-query.js?v=5b82d222:2206
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:998
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:997
+batch @ @tanstack_react-query.js?v=5b82d222:583
+dispatch_fn @ @tanstack_react-query.js?v=5b82d222:996
+onError @ @tanstack_react-query.js?v=5b82d222:861
+reject @ @tanstack_react-query.js?v=5b82d222:465
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:508
+Promise.catch
+run @ @tanstack_react-query.js?v=5b82d222:498
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+onSubscribe @ @tanstack_react-query.js?v=5b82d222:1898
+subscribe @ @tanstack_react-query.js?v=5b82d222:24
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:3022
+subscribeToStore @ chunk-SKRUXVEK.js?v=5b82d222:11984
+commitHookEffectListMount @ chunk-SKRUXVEK.js?v=5b82d222:16915
+commitPassiveMountOnFiber @ chunk-SKRUXVEK.js?v=5b82d222:18156
+commitPassiveMountEffects_complete @ chunk-SKRUXVEK.js?v=5b82d222:18129
+commitPassiveMountEffects_begin @ chunk-SKRUXVEK.js?v=5b82d222:18119
+commitPassiveMountEffects @ chunk-SKRUXVEK.js?v=5b82d222:18109
+flushPassiveEffectsImpl @ chunk-SKRUXVEK.js?v=5b82d222:19490
+flushPassiveEffects @ chunk-SKRUXVEK.js?v=5b82d222:19447
+commitRootImpl @ chunk-SKRUXVEK.js?v=5b82d222:19416
+commitRoot @ chunk-SKRUXVEK.js?v=5b82d222:19277
+performSyncWorkOnRoot @ chunk-SKRUXVEK.js?v=5b82d222:18895
+flushSyncCallbacks @ chunk-SKRUXVEK.js?v=5b82d222:9119
+(anonymous) @ chunk-SKRUXVEK.js?v=5b82d222:18627Understand this error
+queryClient.ts:112  GET https://verbose-adventure-pj64pj7p5w5wcgx5-5000.app.github.dev/api/daily-signin/status 500 (Internal Server Error)
+queryFn @ queryClient.ts:112
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245Understand this error
+queryClient.ts:129 Query Function Error: Error: 500: {"message":"Internal server error during authentication"}
+queryFn @ queryClient.ts:129
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=5b82d222:840
+run @ @tanstack_react-query.js?v=5b82d222:494
+start @ @tanstack_react-query.js?v=5b82d222:536
+fetch @ @tanstack_react-query.js?v=5b82d222:926
+executeFetch_fn @ @tanstack_react-query.js?v=5b82d222:2211
+(anonymous) @ @tanstack_react-query.js?v=5b82d222:2245Understand this error

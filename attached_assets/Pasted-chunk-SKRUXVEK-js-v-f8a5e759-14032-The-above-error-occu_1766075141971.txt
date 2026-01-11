@@ -1,0 +1,47 @@
+chunk-SKRUXVEK.js?v=f8a5e759:14032 The above error occurred in the <p> component:
+
+    at p
+    at div
+    at div
+    at div
+    at div
+    at div
+    at div
+    at AdminLayout (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/src/components/AdminLayout.tsx:118:39)
+    at AdminDashboardOverview (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/src/pages/AdminDashboardOverview.tsx?t=1766074884586:46:41)
+    at Route (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/le455k3nb4/node_modules/.vite/deps/wouter.js?v=f8a5e759:280:16)
+    at Switch (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/le455k3nb4/node_modules/.vite/deps/wouter.js?v=f8a5e759:336:17)
+    at div
+    at AppRouter (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/src/App.tsx?t=1766074884586&v=R6ZeZBboNItC0XeZcr7LO:88:48)
+    at Router (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/le455k3nb4/node_modules/.vite/deps/wouter.js?v=f8a5e759:235:17)
+    at ErrorBoundary (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/le455k3nb4/node_modules/.vite/deps/react-error-boundary.js?v=f8a5e759:18:5)
+    at Provider (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/le455k3nb4/node_modules/.vite/deps/chunk-GBY3YEWR.js?v=f8a5e759:38:15)
+    at TooltipProvider (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/…55k3nb4/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=f8a5e759:65:5)
+    at div
+    at EventsSearchProvider (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/src/context/EventsSearchContext.tsx:20:40)
+    at ThemeProvider (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/src/contexts/ThemeProvider.tsx:20:33)
+    at Hr3 (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/…5k3nb4/node_modules/.vite/deps/@privy-io_react-auth.js?v=f8a5e759:67942:13)
+    at oc2 (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/…5k3nb4/node_modules/.vite/deps/@privy-io_react-auth.js?v=f8a5e759:68681:24)
+    at Ma2 (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/…5k3nb4/node_modules/.vite/deps/@privy-io_react-auth.js?v=f8a5e759:67288:24)
+    at Xc3 (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/…5k3nb4/node_modules/.vite/deps/@privy-io_react-auth.js?v=f8a5e759:77783:17)
+    at dp (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/…5k3nb4/node_modules/.vite/deps/@privy-io_react-auth.js?v=f8a5e759:69198:23)
+    at Dr3 (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/…5k3nb4/node_modules/.vite/deps/@privy-io_react-auth.js?v=f8a5e759:67796:24)
+    at Jc3 (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/…5k3nb4/node_modules/.vite/deps/@privy-io_react-auth.js?v=f8a5e759:77771:22)
+    at QueryClientProvider (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/@fs/workspaces/…55k3nb4/node_modules/.vite/deps/@tanstack_react-query.js?v=f8a5e759:2805:3)
+    at App (https://psychic-disco-4j695jw5xgvg37x9p-5000.app.github.dev/src/App.tsx?t=1766074884586&v=R6ZeZBboNItC0XeZcr7LO:598:39)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorBoundary.
+App.tsx:354 App Error: Error: Objects are not valid as a React child (found: object with keys {address}). If you meant to render a collection of children, use an array instead.
+    at throwOnInvalidObjectType (chunk-SKRUXVEK.js?v=f8a5e759:9934:17)
+    at reconcileChildFibers2 (chunk-SKRUXVEK.js?v=f8a5e759:10564:15)
+    at reconcileChildren (chunk-SKRUXVEK.js?v=f8a5e759:14290:37)
+    at updateHostComponent (chunk-SKRUXVEK.js?v=f8a5e759:14807:11)
+    at beginWork (chunk-SKRUXVEK.js?v=f8a5e759:15935:22)
+    at beginWork$1 (chunk-SKRUXVEK.js?v=f8a5e759:19753:22)
+    at performUnitOfWork (chunk-SKRUXVEK.js?v=f8a5e759:19198:20)
+    at workLoopSync (chunk-SKRUXVEK.js?v=f8a5e759:19137:13)
+    at renderRootSync (chunk-SKRUXVEK.js?v=f8a5e759:19116:15)
+    at recoverFromConcurrentError (chunk-SKRUXVEK.js?v=f8a5e759:18736:28)
+
+﻿
+

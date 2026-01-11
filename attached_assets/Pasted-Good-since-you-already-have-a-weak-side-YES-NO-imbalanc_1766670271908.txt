@@ -1,0 +1,248 @@
+Good — since you already have a weak-side (YES/NO imbalance) bonus, the goal now is to layer very simple, understandable bonus mechanics on top without turning Bantah into a sportsbook clone.
+
+Below are plug-and-play bonus models that work with your existing YES/NO + auto-matching + admin control.
+
+I’ll structure this cleanly so it’s usable by product, engineering, and growth.
+
+⸻
+
+1. Early Bird Bonus (Time-Based, Not Odds-Based)
+
+What it is
+
+Users who join earlier on either YES or NO get a multiplier or fixed bonus.
+
+Why it works
+ • Creates urgency
+ • Rewards conviction
+ • Not gambling-complex
+
+Implementation
+
+Admin sets:
+ • earlyBirdSlots = 1000
+ • earlyBirdBonus = +5% OR ₦X
+
+Logic:
+
+If userPosition <= earlyBirdSlots:
+  apply earlyBirdBonus
+
+Messaging
+ • “First 1,000 picks get a bonus”
+ • “Early opinions pay more”
+
+⸻
+
+2. Side Commitment Bonus (Anti-Flip Incentive)
+
+What it is
+
+Reward users who stay on one side until resolution.
+
+Why it works
+ • Reduces churn
+ • Feels fair
+ • Encourages confidence
+
+Implementation
+
+If user:
+ • Joined YES or NO
+ • Did not cancel / switch
+ • Held stake until end
+
+Then:
+ • +X% bonus on winnings
+
+Messaging
+ • “Hold your position, earn extra”
+ • “Conviction pays on Bantah”
+
+⸻
+
+3. Streak Bonus (Opinion Consistency)
+
+What it is
+
+Reward users for correct streaks across challenges.
+
+Why it works
+ • Adds skill identity
+ • Builds retention
+ • Not dependent on stake size
+
+Simple model
+
+Streak Bonus
+2 wins +2%
+5 wins +5%
+10 wins +10%
+
+Messaging
+ • “On a hot streak 🔥?”
+ • “Consistency = higher earnings”
+
+⸻
+
+4. Underdog Hero Bonus (Different from Weak Side Bonus)
+
+You already bonus weak side when imbalance exists.
+
+This version is outcome-based, not join-based.
+
+What it is
+
+If YES (or NO) had significantly fewer participants and wins, extra reward triggers.
+
+Implementation
+
+Admin sets:
+ • underdogThreshold = <30% participation
+ • underdogWinBonus = +X%
+
+Messaging
+ • “Back the unpopular opinion”
+ • “Bold picks earn more”
+
+⸻
+
+5. Social Proof Bonus (Tag & Challenge)
+
+What it is
+
+Reward users for challenging/tagging another user.
+
+Why it works
+ • Drives virality
+ • Makes tagging primary (your stated goal)
+
+Implementation
+
+If:
+ • User creates challenge and tags another user
+ • Match occurs
+
+Then:
+ • Both get small bonus (₦X or +%)
+
+Messaging
+ • “Challenge a friend. Both of you earn more.”
+ • “Social challenges pay better.”
+
+⸻
+
+6. Admin Sponsored Bonus (Attention Magnet)
+
+What it is
+
+Admin injects bonus pool into specific challenges.
+
+Why it works
+ • Creates “featured” challenges
+ • Drives mass participation
+ • Easy to understand
+
+Implementation
+
+Admin dashboard:
+
+Bonus Pool: ₦500,000
+Distribution: Winners only / Pro-rata / Early joiners
+
+Displayed on card:
+
+“🔥 ₦500,000 Bonus Pool Active”
+
+Messaging
+ • “This challenge is boosted”
+ • “Admin-backed challenge”
+
+⸻
+
+7. Accuracy Bonus (Skill > Capital)
+
+What it is
+
+Small bonus for users with high accuracy over time.
+
+Why it works
+ • Makes platform feel merit-based
+ • Encourages small-stake users
+
+Implementation
+
+If:
+ • Accuracy ≥ X%
+ • Minimum challenges participated
+
+Then:
+ • +X% earnings boost
+
+Messaging
+ • “Top predictors earn more”
+ • “Skill beats luck”
+
+⸻
+
+8. First-Time Join Bonus (Zero Friction Onboarding)
+
+What it is
+
+First YES or NO participation gets a boost.
+
+Why it works
+ • Reduces hesitation
+ • Converts non-bettors
+
+Implementation
+
+If user.challengeCount == 1
+ • Bonus applies automatically
+
+Messaging
+ • “Your first opinion earns extra”
+ • “Try once, earn more”
+
+⸻
+
+9. Resolution Speed Bonus (Admin-Controlled)
+
+What it is
+
+Admin rewards challenges resolved quickly & cleanly.
+
+Why it works
+ • Builds trust
+ • Encourages fast cycles
+
+Implementation
+
+If challenge resolved within X hours of dueDate:
+ • Bonus triggers
+
+Messaging
+ • “Fast results, instant rewards”
+
+⸻
+
+10. Simple Bonus Stack Rule (Very Important)
+
+To avoid confusion:
+
+Rule
+
+Only 2–3 bonuses can stack per challenge
+
+Example:
+ • Early Bird ✅
+ • Weak Side ✅
+ • Streak ❌ (disabled for that challenge)
+
+Admin controls via toggle.
+
+⸻
+
+Bonus Types Summary Table
+
+Bonus Trigger Emotion

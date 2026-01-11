@@ -1,0 +1,161 @@
+Pasted-User-telegram-privy-login-sholwiung-this-https-oauth-te_1766066103327.txt
+User: telegram privy login sholwiung this:  https://oauth.telegram.org/auth?bot_id=8591372909&origin=https%3A%2F%2Fvigilant-disco-wrqw6v4q4ggjc557-5000.app.github.dev&request_access=true&return_to=https%3A%2F%2Fvigilant-disco-wrqw6v4q4ggjc557-5000.app.github.dev%2Fevents   Bot domain invalid
+
+GitHub Copilot: I'll add a short todo plan listing the steps to fix the "Bot domain invalid" error.
+
+Created 5 todos
+
+Cause: Telegram OAuth requires the bot's allowed domain to match the request origin host. "Bot domain invalid" means the host in your `origin`/`return_to` (vigilant-disco-wrqw6v4q4ggjc557-5000.app.github.dev) isn't registered for your bot.
+
+Quick fix (steps you can do now)
+- Open Telegram and chat with @BotFather.
+- Use the /setdomain command or: My Bots → select your bot → Bot Settings → Domain.
+- Enter the host only (no protocol, no port): vigilant-disco-wrqw6v4q4ggjc557-5000.app.github.dev
+- Save. Then retry your URL (ensure `origin` and `return_to` use the same host).
+
+Notes and alternatives
+- Do NOT include `https://` or `:5000` when setting domain — only the hostname.
+- If the .app.github.dev host is ephemeral or blocked, run an exposed URL (ngrok) and register that host instead:
+  - Run: 
+    ```bash
+    ngrok http 5000
+    ```
+  - Register the ngrok host (e.g. aa1b2c.ngrok.io) in BotFather and update `origin`/`return_to`.
+- Make sure `return_to` is URL-encoded and uses the same host+scheme you registered.
+
+If you want, I can:
+- Walk through the exact BotFather steps with screenshots,
+- Help expose your dev server with ngrok and update the link,
+- Or update any app link files in the repo. Which would you like next?
+
+User: give me the admin link
+
+
+GitHub Copilot: Do you mean the BotFather admin page or the OAuth link used for login?
+
+- Bot management (BotFather): https://t.me/BotFather — use `/mybots` → select your bot → Bot Settings.  
+- OAuth URL you posted: https://oauth.telegram.org/auth?bot_id=8591372909&origin=https%3A%2F%2Fvigilant-disco-wrqw6v4q4ggjc557-5000.app.github.dev&request_access=true&return_to=https%3A%2F%2Fvigilant-disco-wrqw6v4q4ggjc557-5000.app.github.dev%2Fevents
+
+Which one did you want?
+
+User: platform admin link, not the bot
+
+GitHub Copilot: Do you mean Telegram's platform admin site? If so use: https://my.telegram.org
+
+If you meant a different platform (your app's admin panel or the OAuth dashboard), tell me which and I’ll give the exact link.
+
+User: this website admin panel link and seeded login
+
+GitHub Copilot: I'll add a short plan, then search the repo for seed/admin credentials and admin routes.
+
+Updated todo list
+
+Now I'll search the repository for likely credential and admin-related keywords.
+
+Searched for regex `admin|seed|ADMIN_PASSWORD|ADMIN_EMAIL|createAdmin|seedAdmin|superadmin|DEFAULT_ADMIN|seeder|seedUsers|admin@example|root@example`, 20 results
+
+Listing routes to find admin route files.
+
+Read [](file:///workspaces/glshb4848/server/routes)
+
+Read [](file:///workspaces/glshb4848/server/routes/adminNotificationsApi.ts)
+
+Searching for files that create users or set `isAdmin`.
+
+Searched for regex `isAdmin|admin@example|DEFAULT_ADMIN|createUser|insert into users|seed user|seeder|initial admin|admin@|superadmin`, 20 results
+
+Opening the log file that mentioned a backup admin user to extract the seeded admin credentials.
+
+Read [](file:///workspaces/glshb4848/attached_assets/Pasted--rest-express-1-0-0-dev-2025-12-10T17-30-48-881-INFO-Ru_1765387872945.txt#350-350), lines 350 to 412
+
+Updating the todo list to mark search and file review completed.
+
+Starting: *Report admin panel URL and seeded login* (3/3)
+
+Admin panel URL:
+- https://vigilant-disco-wrqw6v4q4ggjc557-5000.app.github.dev/admin/login
+
+Seeded admin logins (from repo logs):
+- Username: admin — Password: admin123
+- Backup: Username: superadmin — Password: admin123
+
+Notes:
+- You can override the password with the `ADMIN_PASSWORD` env var if the app supports it.
+- Let me know if you want me to log in, change the password, or update the OAuth origins/domains.
+
+User: admin panel seems to not be listing users, even though there are some few users on the platforms  
+Bantah Logo
+Events
+Challenges
+Friends
+Leaderboard
+Search events..
+Notifications5
+User avatar
+
+5,050
+Admin Panel
+BetChat Management
+
+A
+Admin
+
+Admin
+Dashboard
+
+Overview and quick actions
+
+Events
+
+Manage event payouts and results
+
+Challenges
+
+Handle challenge disputes and payouts
+
+Users
+
+User management and moderation
+
+Analytics
+
+Platform statistics and insights
+
+Notifications
+
+System notifications and alerts
+
+Settings
+
+Platform configuration
+
+Admin LogoutBack to App
+Admin Dashboard
+Overview of platform activity and management
+
+Live Monitoring
+Total Users
+
+3
+
++0 this week
+
+Total Volume
+
+₦0
+
+All-time trading
+
+Platform Revenue
+
+₦0
+
+Creator + Platform fees
+
+Active Events
+
+0
+
+Currently running
+
+Pending Acti...

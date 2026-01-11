@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>Bantah Companion</title>
+        <link rel="stylesheet" href="popup.css" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="top">
+                <img src="icons/icon48.svg" class="logo" alt="Bantah" />
+                <div>
+                    <h1>Bantah</h1>
+                    <p class="muted">Quick access and notifications</p>
+                </div>
+            </div>
+
+            <div class="actions">
+                <button id="open-root" class="btn primary">Open Bantah</button>
+                <button id="open-events" class="btn">Events</button>
+                <button id="open-create" class="btn">Create Event</button>
+                <button id="quick-login" class="btn">Quick Login</button>
+            </div>
+
+            <div class="settings">
+                <label for="baseUrl">Site URL</label>
+                <input id="baseUrl" type="url" placeholder="https://your-site.example" />
+                <div class="row">
+                    <button id="save-url" class="btn">Save</button>
+                    <button id="open-tab" class="btn ghost">Open in New Tab</button>
+                </div>
+
+                <label class="mt-2">Notifications</label>
+                <div class="row">
+                    <label class="switch"><input type="checkbox" id="notifyToggle"/><span>Enable</span></label>
+                    <input id="interval" type="number" min="1" max="60" value="5" class="small"/> <span class="muted">min</span>
+                </div>
+            </div>
+
+            <p class="note">Tip: extension will open site pages in a new tab. Notifications require the site to allow cookie auth and CORS.</p>
+        </div>
+        <script src="popup.js"></script>
+    </body>
+</html>

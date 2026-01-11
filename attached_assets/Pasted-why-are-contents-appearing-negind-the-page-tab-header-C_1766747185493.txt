@@ -1,0 +1,425 @@
+why are contents appearing negind the page tab header!!! Comments (0)
+Matches
+Activity
+alice01 defeated bob22 — Winner: alice01
+about 1 hour ago
+Payout of 1000 coins made to alice01
+about 2 hours ago
+New user joined: charlie
+about 1 hour ago
+New match scheduled: dave vs eva
+30 minutes ago
+alice01 earned 250 points
+20 minutes ago
+bob22 earned a 30-coin bonus
+10 minutes ago
+
+
+4 messages & 13 actions
+I see the issue now. The tab content is appearing behind the tab header. Let me fix the z-index and spacing to ensure proper layering.
+Checkpoint made
+Fix overlapping content behind tab headers
+Worked for 2 minutes
+now, cn users chat, see the Activity and also the Matched users? in the challenge page Comments (0)
+Matches
+Activit https://d79adb83-cceb-45ca-97c4-a5dfb233d9d4-00-1kwreuugx0q6v.riker.replit.dev/challenges/19/activity the page seems to be stucked in cache
+
+
+6 messages & 15 actions
+I see the issue - the page is stuck in cache. Let me check the server configuration and add proper cache control headers to prevent this, and verify the data fetching is working correctly.
+Checkpoint made
+Add cache control to prevent pages from being stuck
+Worked for 1 minute
+i cant see any changes o the page ui even after all this recent update - why is it stucked????
+
+
+3 messages & 5 actions
+Let me check what's happening with the page and clear any potential caching issues.
+remove all the mocks from that page
+
+
+4 messages & 11 actions
+I'll remove all the mock data from the challenge detail page. Let me identify and remove: 1. Mock participant avatars (+12 mock count) 2. Hardcoded time remaining (02 Days, 14 Hours, 45 Mins) 3. The "View Timeline" button that doesn't work
+Checkpoint made
+Remove mock data and placeholder elements from challenge page
+Worked for 58 seconds
+admin challenges not shwoing the date the challenge started and edning
+Admin Panel
+BetChat Management
+a
+admin
+
+Admin
+Dashboard
+
+Overview and quick actions
+
+Events
+
+Manage event payouts and results
+
+Challenges
+
+Handle challenge disputes and payouts
+
+Create Challenge
+
+Create admin challenges
+
+Disputes
+
+Review and resolve challenge disputes
+
+Payouts
+
+Manage pending payouts to users
+
+Transactions
+
+Platform payments and transactions
+
+Users
+
+User management and moderation
+
+Analytics
+
+Platform statistics and insights
+
+Bonuses
+
+Configure bonus offers and rewards
+
+Wallet
+
+Admin wallet and fund management
+
+Notifications
+
+System notifications and alerts
+
+Settings
+
+Platform configuration
+
+Admin LogoutBack to App
+Challenge Payouts
+Manage challenge results and fund distribution
+
+Search challenges...
+Create Challenge
+Pending Actions
+
+0
+
+Total Staked
+
+₦17,846
+
+Platform Fees
+
+₦0
+
+Completed
+
+0
+
+Disputed
+
+0
+
+All Challenges
+Challenge Participants Status Stake Bonus Result Due Date Actions
+telegram alert
+general
+Unknown vs Unknown
+open ₦200 - -
+23/12/2025
+
+one more time
+entertainment
+Unknown vs Unknown
+open ₦400 - -
+23/12/2025
+
+Image trying!
+sports
+Unknown vs Unknown
+open ₦200 - -
+23/12/2025
+
+Image ettsing
+sports
+Unknown vs Unknown
+open ₦2,000 - -
+23/12/2025
+
+test again microphone
+general
+Unknown vs Unknown
+open ₦100 - -
+28/12/2025
+
+tets notify
+sports
+Unknown vs Unknown
+open ₦200 - -
+23/12/2025
+
+Automated Admin Test Challenge
+general
+Unknown vs Unknown
+open ₦5,000 - - -
+
+Test Admin Challenge via Curl
+general
+Unknown vs Unknown
+open ₦100 - - -
+
+cli two esting
+general
+Unknown vs Unknown
+open ₦200 - -
+28/12/2025
+
+Test Challenge from CLI
+general
+Unknown vs Unknown
+open ₦100 - - -
+
+Automated Test
+test
+Unknown vs Unknown
+open ₦123 - - -
+
+Test Challenge 3
+test
+Unknown vs Unknown
+open ₦300 - - -
+
+the /challenges card also not shwoing the ended badge on the challenges that has ended , instead its goin to wronmg broken page whn clicked.
+Bantah Logo
+Challenges
+Friends
+Leaderboard
+Search events..
+Sign In
+Create
+Create
+
+All
+All
+
+Sports
+Sports
+
+Gaming
+Gaming
+
+Crypto
+Crypto
+
+Trading
+Trading
+
+Music
+Music
+
+Entertainment
+Entertainment
+
+Politics
+Politics
+
+General
+General
+challenge cover
+telegram alert
+₦200 Stake
+
+New
+
+telegram alert
+Yes
+No
+Stake
+₦200
+Win
+₦500
+User
+0
+0
+📌
+•
+3d
+challenge cover
+one more time
+₦400 Stake
+
+New
+
+one more time
+Yes
+No
+Stake
+₦400
+Win
+₦1,600
+User
+0
+0
+🎬
+•
+3d
+platform
+Image trying!
+₦200 Stake
+
+New
+
+Image trying!
+Yes
+No
+Stake
+₦200
+Win
+₦400
+User
+0
+0
+⚽
+•
+3d
+platform
+Image ettsing
+₦2,000 Stake
+
+New
+
+Image ettsing
+Yes
+No
+Stake
+₦2,000
+Win
+₦4,000
+User
+0
+0
+⚽
+•
+3d
+platform
+test again microphone
+₦100 Stake
+
+New
+
+test again microphone
+Yes
+No
+Stake
+₦100
+Win
+₦200
+User
+0
+0
+📌
+•
+4d
+platform
+tets notify
+₦200 Stake
+
+New
+
+tets notify
+Yes
+No
+Stake
+₦200
+Win
+₦400
+User
+0
+0
+⚽
+•
+4d
+platform
+Automated Admin Test Challenge
+₦5,000 Stake
+
+New
+
+Automated Admin Test Challenge
+Yes
+No
+Stake
+₦5,000
+Win
+₦10,000
+User
+0
+0
+📌
+•
+4d
+platform
+Test Admin Challenge via Curl
+₦100 Stake
+
+New
+
+Test Admin Challenge via Curl
+Yes
+No
+Stake
+₦100
+Win
+₦200
+User
+0
+0
+📌
+•
+4d
+platform
+cli two esting
+₦200 Stake
+
+New
+
+cli two esting
+Yes
+No
+Stake
+₦200
+Win
+₦400
+User
+0
+0
+📌
+•
+4d
+platform
+Test Challenge from CLI
+₦100 Stake
+
+New
+
+Test Challenge from CLI
+Yes
+No
+Stake
+₦100
+Win
+₦200
+User
+0
+0
+📌
+•
+4d

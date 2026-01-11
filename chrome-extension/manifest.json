@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "name": "Bantah Companion",
+  "version": "0.1.0",
+  "description": "Quick access to Bantah web app: open the site or quick routes from the browser toolbar.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Bantah Companion",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png",
+      "256": "icons/icon256.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage", "tabs", "alarms", "notifications", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["content.css"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "64": "icons/icon64.png",
+    "128": "icons/icon128.png",
+    "256": "icons/icon256.png",
+    "512": "icons/icon512.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["overlay.html", "overlay.js", "overlay.css"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

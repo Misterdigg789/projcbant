@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: try12345678-backend
+    env: docker
+    branch: main
+    plan: free
+    dockerfilePath: Dockerfile
+    regions:
+      - oregon
+    pull_request_previews: false
+    auto_deploy: true

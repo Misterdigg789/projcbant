@@ -1,0 +1,1020 @@
+Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162Understand this error
+balance:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162Understand this error
+notifications:1  Failed to load resource: the server responded with a status of 401 (Unauthorized)Understand this error
+queryClient.ts:111 API Request Error: Error: 401: {"message":"Invalid token or user ID not found"}
+apiRequest @ queryClient.ts:111Understand this error
+queryClient.ts:145  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/wallet/balance 401 (Unauthorized)
+queryFn @ queryClient.ts:145
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:99  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/notifications 401 (Unauthorized)
+apiRequest @ queryClient.ts:99
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:519Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:111 API Request Error: Error: 401: {"message":"Invalid token or user ID not found"}
+apiRequest @ queryClient.ts:111
+await in apiRequest
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:519Understand this error
+queryClient.ts:145  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/wallet/balance 401 (Unauthorized)
+queryFn @ queryClient.ts:145
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:145  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/wallet/balance 401 (Unauthorized)
+queryFn @ queryClient.ts:145
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:145  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/wallet/balance 401 (Unauthorized)
+queryFn @ queryClient.ts:145
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:145  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/wallet/balance 401 (Unauthorized)
+queryFn @ queryClient.ts:145
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:145  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/daily-signin/status 401 (Unauthorized)
+queryFn @ queryClient.ts:145
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:145  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/navigation/badges 401 (Unauthorized)
+queryFn @ queryClient.ts:145
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:145  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/navigation/badges 401 (Unauthorized)
+queryFn @ queryClient.ts:145
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:515
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:515
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:145  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/wallet/balance 401 (Unauthorized)
+queryFn @ queryClient.ts:145
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:99  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/notifications 401 (Unauthorized)
+apiRequest @ queryClient.ts:99
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:519Understand this error
+queryClient.ts:111 API Request Error: Error: 401: {"message":"Invalid token or user ID not found"}
+apiRequest @ queryClient.ts:111
+await in apiRequest
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:519Understand this error
+queryClient.ts:99  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/notifications 401 (Unauthorized)
+apiRequest @ queryClient.ts:99
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:515
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:519Understand this error
+queryClient.ts:111 API Request Error: Error: 401: {"message":"Invalid token or user ID not found"}
+apiRequest @ queryClient.ts:111
+await in apiRequest
+queryFn @ useNotifications.ts:15
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:519
+Promise.then
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:515
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:519Understand this error
+queryClient.ts:145  GET https://6880eb3c-0c28-4b09-b600-e68cba659b3a-00-21upnqeihx630.riker.replit.dev/api/wallet/balance 401 (Unauthorized)
+queryFn @ queryClient.ts:145
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
+queryClient.ts:162 Query Function Error: Error: 401: {"message":"Invalid token or user ID not found"}
+queryFn @ queryClient.ts:162
+await in queryFn
+fetchFn @ @tanstack_react-query.js?v=cdcbc274:840
+run @ @tanstack_react-query.js?v=cdcbc274:494
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245
+setInterval
+updateRefetchInterval_fn @ @tanstack_react-query.js?v=cdcbc274:2243
+updateTimers_fn @ @tanstack_react-query.js?v=cdcbc274:2250
+onQueryUpdate @ @tanstack_react-query.js?v=cdcbc274:2206
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:998
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:997
+batch @ @tanstack_react-query.js?v=cdcbc274:583
+dispatch_fn @ @tanstack_react-query.js?v=cdcbc274:996
+onError @ @tanstack_react-query.js?v=cdcbc274:861
+reject @ @tanstack_react-query.js?v=cdcbc274:465
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:508
+Promise.catch
+run @ @tanstack_react-query.js?v=cdcbc274:498
+start @ @tanstack_react-query.js?v=cdcbc274:536
+fetch @ @tanstack_react-query.js?v=cdcbc274:926
+executeFetch_fn @ @tanstack_react-query.js?v=cdcbc274:2211
+(anonymous) @ @tanstack_react-query.js?v=cdcbc274:2245Understand this error
