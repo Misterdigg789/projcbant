@@ -480,7 +480,7 @@ export default function Challenges() {
                 value="all" 
                 className="text-xs px-3 py-1.5 rounded-full data-[state=active]:bg-[#ccff00] data-[state=active]:text-black whitespace-nowrap bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 shadow-sm transition-all h-auto"
               >
-                All
+                Trending
               </TabsTrigger>
               <TabsTrigger 
                 value="p2p" 
