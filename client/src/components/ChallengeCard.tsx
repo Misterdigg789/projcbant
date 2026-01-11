@@ -486,10 +486,10 @@ export function ChallengeCard({
                     userId={challenge.challengerUser?.id || ""} 
                     username={challenge.challengerUser?.username || challengerName}
                     size={36}
-                    className={`w-9 h-9 ring-2 ring-white dark:ring-slate-800 shadow-sm ${!challenge.adminCreated ? 'cursor-pointer hover:opacity-80' : ''}`}
+                    className={`w-9 h-9 ring-2 ring-primary dark:ring-primary shadow-md ${!challenge.adminCreated ? 'cursor-pointer hover:opacity-80' : ''}`}
                     onClick={(e) => handleAvatarClick(e, challenge.challengerUser?.id)}
                   />
-                  <span className="text-[9px] font-bold text-slate-500 mt-1 truncate max-w-[56px]">@{challenge.challengerUser?.username || "challenger"}</span>
+                  <span className="text-[9px] font-bold text-primary mt-1 truncate max-w-[56px]">@{challenge.challengerUser?.username || "challenger"}</span>
                 </div>
                 
                 <div className="flex flex-col items-center">
