@@ -522,7 +522,7 @@ export function ChallengeCard({
                 disabled={challenge.status === "completed" || challenge.status === "ended" || hasJoined}
                 className={`flex items-center justify-center text-sm font-bold rounded-lg py-2 flex-1 transition-opacity ${
                   (challenge.status !== "completed" && challenge.status !== "ended") && !hasJoined
-                    ? "text-emerald-600 dark:text-emerald-400 bg-emerald-500/15 dark:bg-emerald-500/20 hover:opacity-80 cursor-pointer"
+                    ? "text-emerald-700 dark:text-emerald-400 bg-emerald-500/30 dark:bg-emerald-500/30 hover:opacity-80 cursor-pointer shadow-sm border border-emerald-500/20"
                     : "text-emerald-600/40 dark:text-emerald-400/40 bg-emerald-500/5 dark:bg-emerald-500/10 cursor-not-allowed"
                 }`}
                 data-testid="button-challenge-yes"
@@ -539,7 +539,7 @@ export function ChallengeCard({
                 disabled={challenge.status === "completed" || challenge.status === "ended" || hasJoined}
                 className={`flex items-center justify-center text-sm font-bold rounded-lg py-2 flex-1 transition-opacity ${
                   (challenge.status !== "completed" && challenge.status !== "ended") && !hasJoined
-                    ? "text-red-600 dark:text-red-400 bg-red-500/15 dark:bg-red-500/20 hover:opacity-80 cursor-pointer"
+                    ? "text-red-700 dark:text-red-400 bg-red-500/30 dark:bg-red-500/30 hover:opacity-80 cursor-pointer shadow-sm border border-red-500/20"
                     : "text-red-600/40 dark:text-red-400/40 bg-red-500/5 dark:bg-red-500/10 cursor-not-allowed"
                 }`}
                 data-testid="button-challenge-no"
