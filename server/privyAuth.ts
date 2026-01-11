@@ -69,8 +69,7 @@ async function upsertPrivyUser(verifiedClaims: any) {
       let username: string;
 
       if (walletAccount?.address) {
-        const addr = walletAccount.address;
-        username = `${addr.slice(0, 6)}...${addr.slice(-4)}`;
+        username = walletAccount.address;
       } else {
         username = verifiedClaims.email?.split('@')[0] || `user_${userId.slice(-8)}`;
       }
